@@ -586,8 +586,10 @@ if __name__=='__main__':
 
 """
 
+to execute (this is Mac OS), run this command: *you cannot run this command if you don't have my virtual environment 'venv_pj1' im sorry:)
 source ~/Desktop/python_project1/venv_pj1/bin/activate && python3 ~/Desktop/python_project_multi_exchange/MultiConnectivity.py
 
+to activate virtual environment only, run this command:
 ~/Desktop/python_project1/venv_pj1/bin/activate
 
 
