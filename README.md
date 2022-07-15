@@ -26,5 +26,6 @@ Kucoin
 Remark:
 1)I have not added reconnect logic in this version. That means when network issue happened (either you disconnected or exchange server disconnected), you will drop the connection instead of keep receiving the price flow in. This part will be enhanced in later version.
 2)No requirements.txt for now. Please install packages one-by-one.
+3)The 'package' folder here is for connecting to Binance and BinanceUS. If you don't download it you cannot get connection from them.
 
 creator:yeunghy0516@gmail.com
