@@ -2,6 +2,11 @@
 Description:
 Print streaming Bitcoin price using websocket in multiple exchanges (Binance,Huobi,Coinbase,etc). 
 
+Infrastructure:
+Python3
+Some Exchange-developed package
+Multi Processing (which utilize one physical thread for each exchange connection)
+
 Supported Exchange:
 AAX
 Binance
